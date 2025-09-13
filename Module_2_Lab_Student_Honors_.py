@@ -13,6 +13,6 @@ elif studentGPA >= 3.25:
     print(f"{studentFN} {studentLN} has made the Honor Roll.")
 else:
     print(f"{studentFN} {studentLN} has not made the Dean's List or the Honor Roll.")
+<<<<<<< HEAD
 
 # End of program
-
